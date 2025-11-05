@@ -59,9 +59,10 @@ This project is built using **HTML, CSS, Bootstrap, JavaScript, and Python**. It
 
 ## Usage
 
-1. Enter or paste the content you want to check.  
-2. Click on **Check Content**.  
-3. View the results:  
+1. Enter or paste the content or Upload files in **PDF, DOC/DOCX, or TXT** format
+2.  which you want to check.  
+3. Click on **Check Content**.  
+4. View the results:  
     - AI detection score  
     - Plagiarism percentage  
     - Source platforms (if content is copied)  
