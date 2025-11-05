@@ -2,8 +2,7 @@ from flask import Flask, request, render_template, send_file
 import PyPDF2
 import docx
 import requests
-from serpapi import GoogleSearch
-
+from serpapi import GoogleSearch 
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.pagesizes import A4
