@@ -3,17 +3,14 @@ import PyPDF2
 import docx
 import requests
 from serpapi import GoogleSearch
-from dotenv import load_dotenv
+
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.pagesizes import A4
 import os
 
-load_dotenv()
-
-SAPLING_API_KEY = os.getenv("SAPLING_API_KEY")
-SERP_API_KEY = os.getenv("SERP_API_KEY")
-
+SAPLING_API_KEY = "UXFL96YDVU57R31SIF92TJ9KS8I53LI7"
+SERP_API_KEY = "a5f469ce3f45c5275b39d6036c34949c881b826b89b16da9447292d79137de9d"
 app = Flask(__name__)
 
 # ✅ GLOBAL STORAGE (used for PDF download)
