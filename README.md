@@ -94,8 +94,8 @@ This project is licensed under the MIT License.
 ## Author
 
 **Aditya Mishra**  
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [https://github.com/Adi-ADI2005](https://github.com/Adi-ADI2005)  
+- LinkedIn: [https://www.linkedin.com/in/myselfadi](https://www.linkedin.com/in/myselfadi)  
 
 ---
 
